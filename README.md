@@ -37,8 +37,10 @@ Live demo: [https://blog-card-oh.netlify.app](https://blog-card-oh.netlify.app)
 
 2. Navigate to the project directory:
 
+   ```bash
    cd blog-card
 
 3. Install dependencies:
 
+   ```bash
    npm install
