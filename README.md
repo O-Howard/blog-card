@@ -8,6 +8,7 @@ A simple and elegant React project displaying a blog card component with an imag
 
 - [Demo](#demo)
 - [Features](#features)
+- [Technologies](#technologies).
 - [Installation](#installation)
 
 
@@ -25,6 +26,17 @@ Live demo: [https://blog-card-oh.netlify.app](https://blog-card-oh.netlify.app)
 - Rounded images with shadow  
 - Customizable tags and styling  
 - Uses Google Fonts (Sora)
+
+---
+
+## Technologies
+
+This project is built with the following technologies:
+
+- React  
+- Vite  
+- CSS  
+- Google Fonts (Sora)
 
 ---
 
