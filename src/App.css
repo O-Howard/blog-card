@@ -1,0 +1,57 @@
+.card{
+  max-width: 332px;
+  margin: 0 auto;
+  margin-top: 164px;
+  padding: 16px 16px 10px 16px;
+  border-radius: 10px;
+  box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+}
+img{
+  border-radius: 10px;
+}
+
+.title{
+  font-family: "Sora", sans-serif;
+  font-size: 18px;
+  color: #20293A;
+  font-weight: bold;
+  margin: 16px 0px 6px 0px;
+}
+
+.text{
+  font-family: "Sora", sans-serif;
+  font-size: 14px;
+  color: #394150;
+  margin: 0px 0px 20px 0px;
+}
+
+.name{
+  font-family: "Sora", sans-serif;
+  font-size: 12px;
+  color: #394150; 
+  margin-top: 20px;
+}
+
+.tag{
+  background-color: #F2EAFD;
+  font-family: "Sora", sans-serif;
+  color: #7C19EE;
+  font-size: 10px;
+  font-weight: bold;
+  margin-top: 16px;
+  padding: 4px 16px 4px 16px;
+  border-radius: 60px;
+  width: 38px;
+}
+
+hr{
+  border: none;              
+  height: 2px;               
+  background-color: #E5EAF0;                
+  margin: 0px -16px 0px -16px; 
+}
